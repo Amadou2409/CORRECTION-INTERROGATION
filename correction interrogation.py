@@ -8,4 +8,3 @@ if number<=0 :
 else:
     print("le nombre est positif")
     
-   
